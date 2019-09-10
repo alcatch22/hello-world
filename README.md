@@ -1,2 +1,5 @@
 # hello-world
-hello workd
+hello world 
+
+hello human, 
+this is me.
